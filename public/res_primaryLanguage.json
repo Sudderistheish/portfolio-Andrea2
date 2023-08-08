@@ -36,7 +36,7 @@
     },
     {
       "title": "Choclate Pizza",
-      "startDate": "2018",
+      "startDate": "2023",
       "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
       "images": [
         "images/portfolio/photography/p1.jpg",
@@ -56,8 +56,8 @@
     },
     {
       "title": "Fishing-Hotspot",
-      "startDate": "2015",
-      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "startDate": "2023",
+      "description": "One of the first apps I was working on my CodeX Academy Boot Camp. I had to contribute to the HTML CSS & Presentation for the project. This was also my first project in Software Development. I've learned a lot!",
       "images": [
         "images/portfolio/adventure/p1.jpg",
         "images/portfolio/adventure/p2.jpg"
@@ -81,9 +81,9 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
+      "company": "United HealtCare",
+      "title": "Data Analyst Software Developer Provider Installation",
+      "years": "10.2018 - present",
       "mainTech": ["Angular 8/9/10"],
       "technologies": [
         "REST API",
